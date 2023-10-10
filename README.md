@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Nishant
-- 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on React Projects
+- 👀 Interested in Fullstack Development
+- 📹 Creating content on [Your Code Lab](https://www.youtube.com/@ycldev)
+- 🌱 Currently learning React Native
+- 💞️ Looking to collaborate on interesting projects
 - 📫 Reach me out at nimogha@gmail.com
 
 <!---
