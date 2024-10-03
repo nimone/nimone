@@ -6,7 +6,7 @@
 - 📫 Reach me out at nimogha@gmail.com
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nimone&show_icons=true&hide_border=true)
+![nimone's Stats](https://github-readme-stats.vercel.app/api?username=nimone&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ![Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,go,nodejs,bash)
 
