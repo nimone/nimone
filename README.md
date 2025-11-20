@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nishant Mogha
-- 👀 Interested in Fullstack Development
+- 👀 Building in Fullstack projects
 - 📹 Creating content on [Your Code Lab](https://www.youtube.com/@ycldev)
-- 🌱 Currently learning React Native
+- 🌱 Currently learning AI engineering
 - 💞️ Looking to collaborate on interesting projects
 - 📫 Reach me out at nimogha@gmail.com
 
